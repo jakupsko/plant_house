@@ -5,4 +5,4 @@ There are already a lot of open-source projects controlling plant growing condit
 
 ## Micropython code:
 
-I used a Raspberry Pi Pico W for this project, which can run micropython code. The folder [micropython](/micorpython/) has files I individually designed to be self-contained (i.e., can be used for other projects). 
+I used a Raspberry Pi Pico W for this project, which can run micropython code. The folder [micropython](https://github.com/jakupsko/plant_house/tree/main/micropython) has files I individually designed to be self-contained (i.e., can be used for other projects). 
