@@ -14,6 +14,12 @@ The stl folder has all of the 3D models required for this setup. Here is the des
 
 
 
+## Circuit Design:
+
+The folder named (circuits)[..] contains a zip Project file created by KiCad 8.0. This means that loading it with earlier KiCad version will not work (this is how KiCad works ,sorry). 
+
+ 
+
 ## Micropython code:
 
-I used a Raspberry Pi Pico W for this project, which can run micropython code. The folder [micropython](https://github.com/jakupsko/plant_house/tree/main/micropython) has files I individually designed to be self-contained (i.e., can be used for other projects). 
+I used a Raspberry Pi Pico W for this project, which can run micropython code. The folder [micropython](https://github.com/jakupsko/plant_house/tree/main/micropython) has files designed to be self-contained (i.e., can be used for other projects). 
